@@ -1,6 +1,6 @@
-# Hi, I'm Yashwant Singh 👋
+# Hi, I'm Yashwant Singh!
 
-AI Product Manager in the making — I connect strategy, users, and engineering to ship AI-powered products that drive measurable business outcomes. I'm an MBA candidate at Bayes Business School (London) with 6+ years in software engineering and integrations, now focused on building and scaling AI features, workflows, and go‑to‑market motions.
+AI Product Manager in the making! I connect strategy, users, and engineering to ship AI-powered products that drive measurable business outcomes. I'm an MBA candidate at Bayes Business School (London) with 6+ years in software engineering and integrations, now focused on building and scaling AI features, workflows, and go‑to‑market motions.
 
 - Current: MBA Candidate at Bayes Business School; Business Mastery Project (AI transformation) at CareerOS; Campus Strategist at Perplexity
 - Previously: Senior Technical Consultant at HereWeGo; Software Development Manager (Integrations) and Software Engineer at Vinculum Solutions
